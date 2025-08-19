@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://agustinredin.online](https://agustinredin.online)
 
-- 📫 How to rech me **alerts@agustinredin.online or agustintomasredin@gmail.com**
+- 📫 Reach me at **alerts@agustinredin.online or agustintomasredin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
