@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on [an LMS that helps students learn faster with AI](https://v0-quick-stt.vercel.app/)  
+- 🔭 Currently working on [an LMS that helps students learn faster with AI](https://get.didacta-ai.com/)  
 - 👨‍💻 Check all my projects at [agustinredin.online](https://agustinredin.online)  
 - 📫 Reach me at **alerts@agustinredin.online** or **agustintomasredin@gmail.com**  
 
